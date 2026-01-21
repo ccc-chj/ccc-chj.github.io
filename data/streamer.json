@@ -1,11 +1,11 @@
 {
-  "name": "TOC传奇",
+  "name": "抖音、背水一战",
   "title": "TOC 11 27强 · 抖云杯第40名 · 985高材生",
-  "avatar": "https://i.ibb.co/MDfT6yTG/9-C075-CF2-F6-B6-4286-9-ED5-527018-B5-E07-D.png",
+  "avatar": "https://img.166.net/gameyw-misc/opd/squash/20260121/110230-fksow8pziu.png",
   "description": "TOC 11 27强选手！抖云杯第40名（总共40人）的荣耀战绩！知名985高材生，用智慧碾压对手！艾欧尼亚千分王者，现已突破1500分大关！",
   "rank": "王者 1500分",
-  "winRate": 40.0,
-  "totalGames": 1205,
+  "winRate": 40.8,
+  "totalGames": 1250,
   "bestRank": "艾欧尼亚 王者 1500分",
   "socialLinks": [
     { "platform": "哔哩哔哩", "url": "https://bilibili.com", "icon": "video" },
@@ -16,6 +16,6 @@
     { "label": "TOC排名", "value": "27强" },
     { "label": "抖云杯", "value": "第40名" },
     { "label": "当前分数", "value": "1500分" },
-    { "label": "学历", "value": "985" }
+    { "label": "粉丝数", "value": "6980" }
   ]
 }
